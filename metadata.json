@@ -1,0 +1,5 @@
+{
+  "name": "Fruit Ripeness Detector",
+  "description": "An AI-powered tool that analyzes images of fruits to automatically detect ripeness and grade quality, providing instant, accurate assessments for consumers and producers alike.",
+  "requestFramePermissions": []
+}
